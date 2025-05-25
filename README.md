@@ -1,23 +1,23 @@
 # Airbnb Data Analysis – Tableau Project
 
-This project presents an interactive dashboard created using Tableau to analyze Airbnb listing data.
+This project presents a data visualization dashboard created using Tableau to analyze Airbnb listings data.
 
-## 📊 Key Insights
+## 📌 Highlights
 
-- Prices increase with number of bedrooms
-- Certain zip codes show higher average rates
-- Seasonal revenue trends throughout the year
-- Distribution of listings by bedroom count
-
-## 🖼️ Dashboard Preview
-
-![Airbnb Tableau Dashboard](airbnb-dashboard.png)
+- Price trends across neighborhoods
+- Room types and availability analysis
+- Host activity and reviews
+- Top-performing listings
 
 ## 🛠 Tools Used
 
 - Tableau
-- Excel/CSV
+- Excel/CSV (for data cleaning)
 
 ## 📂 Files
 
-- `AirBnB Full Project.twbx` – Tableau Workbook
+- `AirBnB Full Project.twbx`: Tableau workbook with interactive dashboards
+
+## 📖 How to View
+
+Open the `.twbx` file using Tableau Desktop.
